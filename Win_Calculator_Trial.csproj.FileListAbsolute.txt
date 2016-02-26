@@ -1,0 +1,9 @@
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\bin\Debug\Win_Calculator_Trial.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\bin\Debug\Win_Calculator_Trial.exe
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\bin\Debug\Win_Calculator_Trial.pdb
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.Form1.resources
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.exe
+c:\users\user1\documents\visual studio 2015\Projects\Win_Calculator_Trial\Win_Calculator_Trial\obj\Debug\Win_Calculator_Trial.pdb
