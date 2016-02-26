@@ -72,7 +72,7 @@ namespace Win_Calculator_Trial
                     break;
             }
             operation_pressed = false;
-            Previous_Operation.Text = "";
+            Previous_Operation.Text = "0";
 
         }
 
